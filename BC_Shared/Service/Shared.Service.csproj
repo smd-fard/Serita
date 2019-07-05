@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Shared.Data.csproj" />
+    <ProjectReference Include="..\Domain\Shared.Domain.csproj" />
+    <ProjectReference Include="..\Model\Shared.Model.csproj" />
+  </ItemGroup>
+
+</Project>

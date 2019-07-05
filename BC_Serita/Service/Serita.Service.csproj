@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Serita.Business.csproj" />
+    <ProjectReference Include="..\Domain\Serita.Domain.csproj" />
+    <ProjectReference Include="..\..\Common\Helper\Common.Helper.csproj" />
+  </ItemGroup>
+
+</Project>

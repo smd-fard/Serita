@@ -1,0 +1,9 @@
+D:\Workspaces\Serita\Common\Domain\bin\Debug\netcoreapp3.0\Common.Domain.deps.json
+D:\Workspaces\Serita\Common\Domain\bin\Debug\netcoreapp3.0\Common.Domain.dll
+D:\Workspaces\Serita\Common\Domain\bin\Debug\netcoreapp3.0\Common.Domain.pdb
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.csprojAssemblyReference.cache
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.csproj.CoreCompileInputs.cache
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.AssemblyInfoInputs.cache
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.AssemblyInfo.cs
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.dll
+D:\Workspaces\Serita\Common\Domain\obj\Debug\netcoreapp3.0\Common.Domain.pdb

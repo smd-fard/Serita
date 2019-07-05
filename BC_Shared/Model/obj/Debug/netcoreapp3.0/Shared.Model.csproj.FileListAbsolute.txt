@@ -1,0 +1,8 @@
+D:\Workspaces\Serita\BC_Shared\Model\bin\Debug\netcoreapp3.0\Shared.Model.deps.json
+D:\Workspaces\Serita\BC_Shared\Model\bin\Debug\netcoreapp3.0\Shared.Model.dll
+D:\Workspaces\Serita\BC_Shared\Model\bin\Debug\netcoreapp3.0\Shared.Model.pdb
+D:\Workspaces\Serita\BC_Shared\Model\obj\Debug\netcoreapp3.0\Shared.Model.csproj.CoreCompileInputs.cache
+D:\Workspaces\Serita\BC_Shared\Model\obj\Debug\netcoreapp3.0\Shared.Model.AssemblyInfoInputs.cache
+D:\Workspaces\Serita\BC_Shared\Model\obj\Debug\netcoreapp3.0\Shared.Model.AssemblyInfo.cs
+D:\Workspaces\Serita\BC_Shared\Model\obj\Debug\netcoreapp3.0\Shared.Model.dll
+D:\Workspaces\Serita\BC_Shared\Model\obj\Debug\netcoreapp3.0\Shared.Model.pdb

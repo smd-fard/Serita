@@ -1,0 +1,17 @@
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.csprojAssemblyReference.cache
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.csproj.CoreCompileInputs.cache
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.AssemblyInfoInputs.cache
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.AssemblyInfo.cs
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Data.deps.json
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Data.runtimeconfig.json
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Data.runtimeconfig.dev.json
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Data.dll
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Data.pdb
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Domain.dll
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Helper.dll
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Helper.pdb
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\Common.Domain.pdb
+D:\Workspaces\Serita\Common\Data\bin\Debug\netcoreapp3.0\fa\Common.Helper.resources.dll
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.csproj.CopyComplete
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.dll
+D:\Workspaces\Serita\Common\Data\obj\Debug\netcoreapp3.0\Common.Data.pdb
